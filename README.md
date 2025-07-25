@@ -1,2 +1,2 @@
 # Delta
-demo for  delta class
+demo for  delta class.
